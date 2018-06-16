@@ -1,6 +1,6 @@
 {
   "name": "auth0-app",
-  "app_id": "389fa72f",
+  "app_id": "b4562240",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
